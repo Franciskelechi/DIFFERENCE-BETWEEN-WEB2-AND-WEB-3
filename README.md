@@ -1,2 +1,12 @@
 # DIFFERENCE-BETWEEN-WEB2-AND-WEB-3
-ASSIGNMMENT
+SQL is short for Structured Query Language. As per the ANSI (American National Standards Institute) guidelines, SQL is the standard language to maintain and manage a database. Thus, besides a few minor syntax changes, most of the databases’ queries for retrieving, adding, or manipulating data are based on the standard SQL syntax. whereas No SQL is non-relational in nature with its document-based design. SQL has established a database, covering huge IT market whereas No SQL databases are the latest arrival, hence still gaining popularity among big IT giants.
+
+KEY DIFFERENCES BETWEEN SQL VS NOSQL
+Some of the major difference: 
+	In Type: 
+SQL databases are primarily called as Relational Databases (RDBMS); whereas NoSQL database are primarily called as non-relational or distributed database. 
+	In Language: 
+SQL databases defines and manipulates data based structured query language (SQL). Seeing from a side this language is extremely powerful. SQL is one of the most versatile and widely-used options available which makes it a safe choice especially for great complex queries. But from other side it can be restrictive. SQL requires you to use predefined schemas to determine the structure of your data before you work with it. Also all of your data must follow the same structure. This can require significant up-front preparation which means that a change in the structure would be both difficult and disruptive to your whole system. 
+A NoSQL database has dynamic schema for unstructured data. Data is stored in many ways which means it can be document-oriented, column-oriented, graph-based or organized as a KeyValue store. This flexibility means that documents can be created without having defined structure first. Also each document can have its own unique structure. The syntax varies from database to database, and you can add fields as you go. 
+	In Scalability: 
+In almost all situations SQL databases are vertically scalable. This means that you can increase the load on a single server by increasing things like RAM, CPU or SSD. But on the other hand NoSQL databases are horizontally scalable. This means that you handle more traffic by sharding, or adding more servers in your NoSQL database. It is similar to adding more floors to the same building versus adding more buildings to the neighborhood. Thus NoSQL can ultimately become larger and more powerful, making these databases the preferred choice for large or ever-changing data sets. 
